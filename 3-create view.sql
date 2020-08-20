@@ -2,7 +2,7 @@
 --*************************** Instructors Version ******************************--
 -- Title:   [BIDD230Final_PurpleTeam_DWCovid19] Create Views
 -- Dev: DHailu
--- Desc: This file create view for [DWCovid19] database.  
+-- Desc: This file create view for [BIDD230Final_PurpleTeam_DWCovid19] on cloude database.  
 -- Change Log: When,Who,What
 -- 2020-19-8,Dejene Hailu, Created view
 --**************************************************************************--
