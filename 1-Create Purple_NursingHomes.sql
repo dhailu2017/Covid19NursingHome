@@ -1,5 +1,6 @@
 --*************************************************************************--
 -- Title: Create the Data Warehouse
+--Dev: Dejene Hailu
 -- Desc:This file will drop and create the [DWCovid19] database, with all its objects. 
 -- Change Log: When,Who,What
 -- 2020-02-08,DHailu,Created database and tables
