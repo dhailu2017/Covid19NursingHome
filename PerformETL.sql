@@ -1,8 +1,8 @@
 --*************************************************************************--
--- Author: <YourNameHere>
--- Desc: ETL process and fill tables in [Purple_DejeneHailu] database
+-- Developer: DejeneHailu
+-- Desc: ETL process and fill tables in [Purple_DejeneHailu] cloude database
 -- Change Log: When,Who,What
--- 2020-08-17,<DHailu>,Created File
+-- 2020-08-17,<DHailu>, Edited code
 
 
 USE Purple_DejeneHailu;
